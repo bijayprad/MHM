@@ -9,4 +9,6 @@ Find the Assignments
 
 [Assignment 4: Correlation & Regression](https://docs.google.com/document/d/e/2PACX-1vSHtatki9jiM-e8Zxt8M42uVrlaR4G_4uxa4vRL64JyVaXB0A_cxXkLWphKEPISpCZswsXeZUQVxP-K/pub)
 
-[Assignment 5: Probability Distribution](https://docs.google.com/document/d/e/2PACX-1vRPf1wNfJkO3VvLTFgHjFHrFfTDkX_LH_-KHGapIY_Riocvn76e8n_eVMcEv0i7gIsEyKFmtpKNzUnU/pub)
+[Assignment 5: Probability](https://docs.google.com/document/d/e/2PACX-1vTPKMc4w05bmWhRGPTUesGpl7i7UijpG-ASBKQlQImV7DvjU7uR4TKStfSGKO6bLG1oSO7tAtDsCCdm/pub)
+
+[Assignment 6: Probability Distribution](https://docs.google.com/document/d/e/2PACX-1vRPf1wNfJkO3VvLTFgHjFHrFfTDkX_LH_-KHGapIY_Riocvn76e8n_eVMcEv0i7gIsEyKFmtpKNzUnU/pub)
