@@ -8,3 +8,5 @@ Find the Assignments
 [Assignment 3: CT & Dispersion](https://docs.google.com/document/d/e/2PACX-1vTTBiOIBcDbN8L-6yRCCKNOtLlTGTkxiRnbNsJIegyd9f7m3c60BSMeZrJHtHwtf7pJMG_1IGYkeU3F/pub)
 
 [Assignment 4: Correlation & Regression](https://docs.google.com/document/d/e/2PACX-1vSHtatki9jiM-e8Zxt8M42uVrlaR4G_4uxa4vRL64JyVaXB0A_cxXkLWphKEPISpCZswsXeZUQVxP-K/pub)
+
+[Assignment 5: Probability Distribution](https://docs.google.com/document/d/e/2PACX-1vRPf1wNfJkO3VvLTFgHjFHrFfTDkX_LH_-KHGapIY_Riocvn76e8n_eVMcEv0i7gIsEyKFmtpKNzUnU/pub)
